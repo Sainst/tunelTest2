@@ -1,9 +1,9 @@
 # tunelTest2
 ## URL del tunel Laravel (puerto 8000)
 
-[https://agencies-nathan-downtown-barrel.trycloudflare.com](https://agencies-nathan-downtown-barrel.trycloudflare.com)
+[https://registration-pursuit-wayne-mortgage.trycloudflare.com](https://registration-pursuit-wayne-mortgage.trycloudflare.com)
 
-Toca y mantiene presionado aqui para copiarla: `https://agencies-nathan-downtown-barrel.trycloudflare.com`
+Toca y mantiene presionado aqui para copiarla: `https://registration-pursuit-wayne-mortgage.trycloudflare.com`
 
 > Cambia en cada arranque de iniciar_todo.bat y se actualiza aqui automaticamente (junto con artisan_url.txt).
 
