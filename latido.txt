@@ -1,1 +1,1 @@
-{"detalle":"","t":1795213771,"estado":"ok"}
+{"detalle":"laravel","t":1795215051,"estado":"mal"}
