@@ -1,1 +1,1 @@
-{"detalle":"","t":1795223370,"estado":"ok"}
+{"detalle":"","t":1795225169,"estado":"apagado"}
